@@ -1,8 +1,7 @@
 # vue-demo
 
 > A Vue.js project
-
-author 
+ 
 
 ## Build Setup
 
